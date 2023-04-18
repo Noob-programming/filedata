@@ -1,0 +1,7 @@
+C:\Users\aser\source\repos\filedata\filedata\bin\Debug\filedata.exe.config
+C:\Users\aser\source\repos\filedata\filedata\bin\Debug\filedata.exe
+C:\Users\aser\source\repos\filedata\filedata\bin\Debug\filedata.pdb
+C:\Users\aser\source\repos\filedata\filedata\obj\Debug\filedata.csprojAssemblyReference.cache
+C:\Users\aser\source\repos\filedata\filedata\obj\Debug\filedata.csproj.CoreCompileInputs.cache
+C:\Users\aser\source\repos\filedata\filedata\obj\Debug\filedata.exe
+C:\Users\aser\source\repos\filedata\filedata\obj\Debug\filedata.pdb
